@@ -1,0 +1,8 @@
+{
+  "name": "kt-example",
+  "displayName": "Kotlin Example Plugin",
+  "author": "Allen-B1",
+  "description": "An example plugin",
+  "version": "1.0",
+  "main": "MainPlugin"
+}
